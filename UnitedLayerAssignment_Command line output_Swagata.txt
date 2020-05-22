@@ -1,0 +1,98 @@
+Python 3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 7.8.0 -- An enhanced Interactive Python.
+
+Restarting kernel... 
+
+
+ 
+
+runfile('C:/Users/Payel/Desktop/UnitedLayer_Python/Test_Hotel_2.py', wdir='C:/Users/Payel/Desktop/UnitedLayer_Python')
+
+Enter Hotel name: Oyo 1521
+
+Enter Room Number: 101
+
+Enter the amenities name: tv
+
+Enter amenities prize in $ (should be a number): 12
+
+Enter the amenities name: couch
+
+Enter amenities prize in $ (should be a number): 20
+
+Enter the amenities name: fridge
+
+Enter amenities prize in $ (should be a number): 14
+
+Enter the amenities name: washing machine
+
+Enter amenities prize in $ (should be a number): 12
+
+Enter the amenities name: Microwave
+
+Enter amenities prize in $ (should be a number): 10
+
+Do you want to add more amenities(Yes/No): Yes
+
+Enter the amenities name: couch
+
+Enter amenities prize in $ (should be a number): 10
+
+Do you want to add more amenities(Yes/No): No
+
+Do you want to add more Room(Yes/No): Yes
+
+Enter Room Number: 204
+
+Enter the amenities name: Bed
+
+Enter amenities prize in $ (should be a number): 30
+
+Enter the amenities name: tv
+
+Enter amenities prize in $ (should be a number): 15
+
+Enter the amenities name: couch
+
+Enter amenities prize in $ (should be a number): 25
+
+Enter the amenities name: washing machine
+
+Enter amenities prize in $ (should be a number): 24
+
+Enter the amenities name: Heater
+
+Enter amenities prize in $ (should be a number): 30
+
+Do you want to add more amenities(Yes/No): No
+
+Do you want to add more Room(Yes/No): No
+
+Do you want to add New Hotel (Yes/No): No
+
+
+
+Oyo 1521 Hotel have following rooms
+
+Room No 101 have the amenities like tv, couch, fridge, washing machine, Microwave, couch, and room rent is $78.
+Room No 204 have the amenities like Bed, tv, couch, washing machine, Heater, and room rent is $124.
+
+***********************************************************
+
+
+***********************************************************
+
+
+Please enter your budget: 200
+
+
+
+Oyo 1521 Hotel have following rooms matching your budget
+
+Room No 101 have the amenities like tv, couch, fridge, washing machine, Microwave, couch, and room rent is $78.
+Room No 204 have the amenities like Bed, tv, couch, washing machine, Heater, and room rent is $124.
+
+***********************************************************
+
